@@ -11,15 +11,15 @@ It is super easy!
 <br>
 3.) Then input the following codes:
 <br>
-C:
+•C:
 <br>
-copy X:\windows\system32\taskmgr.exe
+•copy X:\windows\system32\taskmgr.exe
 <br>
-md en-us
+•md en-us
 <br>
-cd en-us
+•cd en-us
 <br>
-copy X:\windows\system32\en-us\taskmgr.exe.mui
+•copy X:\windows\system32\en-us\taskmgr.exe.mui
 <br>
 4.) Then type exit and press Continue to return to Windows.
 <br>
