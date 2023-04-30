@@ -11,7 +11,6 @@ It is super easy!
 <br>
 3.) Then input the following codes:
 <br>
-<br>
 C:
 <br>
 copy X:\windows\system32\taskmgr.exe
