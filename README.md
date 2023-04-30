@@ -2,10 +2,10 @@
 The Classic Windows Task Manager from Windows 11 22H2's recovery partition. This is identical to the one used in Windows 7.
 
 ## How can I get myself the copy of the same files in this repository?
-It is super easy!
+It is super easy! Here are the instructions for those running Windows 10 or 11.
 <br>
 <br>
-1.) Go into Settings and go to System>Restore>Advance Startup option then click the "Restart Now" twice.
+1.) Go into Settings and go to (System or Updates and Security)>Restore>Advance Startup option then click the "Restart Now" twice.
 <br>
 2.) Wait and then click Troubleshooting then click Command Prompt.
 <br>
